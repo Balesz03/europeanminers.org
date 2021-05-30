@@ -1,0 +1,2 @@
+# europeanminers.org
+Chia pool
